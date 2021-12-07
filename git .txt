@@ -1,0 +1,9 @@
+1.) Create repository on github
+2.) Git clone https/SSH to your local folder
+3.) Do your work
+4.) git bash from local git folder
+5.) type git add .
+7:04
+6.) type git commit -m 'YOUR COMMENT ON THE COMMIT'
+7:05
+7.) type git push origin master

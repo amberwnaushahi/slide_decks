@@ -1,0 +1,49 @@
+Taimur Ahmad Khan Today at 9:30 PM
+@Sal Hobbi - Instructor Could you explain how to write to a .txt file. I wanted to output the GoodReads dataframe with new headers and removed columns to an output folder with a txt file or any file that would show the dataframe
+8 replies
+
+Thais - Assistant Instructor  1 hour ago
+https://datatofish.com/export-dataframe-to-csv/
+datatofish.comdatatofish.com
+How to Export Pandas DataFrame to a CSV File - Data to Fish
+In this short tutorial, you'll see how to export Pandas DataFrame to a CSV file. An example is also reviewed for demonstration purposes.
+:+1:
+1
+
+
+Sal Hobbi - Instructor  42 minutes ago
+Here’s the panda doc about writing to CSV file:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+
+Taimur Ahmad Khan  41 minutes ago
+And is there any way to write to a .txt file?
+
+Sal Hobbi - Instructor  41 minutes ago
+renamed_df.to_csv(“good_read.csv”,index=False)
+
+
+Sal Hobbi - Instructor  2:25 PM
+A resource for tonight’s lecture: https://matplotlib.org/stable/
+:+1:
+1
+
+
+Sal Hobbi - Instructor  9:34 PM
+Introductory Tutorial for MatPlotLib: https://matplotlib.org/stable/tutorials/introductory/usage.html
+:+1:
+1
+
+
+Sal Hobbi - Instructor  9:12 PM
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html?highlight=resample#pandas.DataFrame.resample
+New
+9:12
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot.html
+
+
+
+Laurel Lobo - Assistant Instructor  8:29 PM
+https://www.geeksforgeeks.org/break-continue-and-pass-in-python/
+GeeksforGeeksGeeksforGeeks
+break, continue and pass in Python - GeeksforGeeks
+A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview
